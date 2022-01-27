@@ -1,0 +1,48 @@
+section > p {
+	color: #FAE75B;
+}
+
+* {
+	font-family: "Open Sans", monospace;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+.language {
+	background-color: #94CA8F;
+}
+
+.tool {
+	border-width: 2px;
+	border-style: solid;
+	border-color: #819EEA ;
+}
+
+img + ul {
+	list-style-type: none;
+}
+
+section img	{
+	height: 300px ;
+	width: 300px ;
+	border-radius: 150px;
+}
+
+ul ~ p {
+	text-align: center;
+}
+
+ul > li {
+	letter-spacing: 5px;
+}
+
+ul + p {
+	color: black;
+}
